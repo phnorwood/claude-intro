@@ -1,0 +1,11 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#3b82f6"/>
+  <rect x="250" y="150" width="300" height="200" rx="10" fill="#ffffff" opacity="0.9"/>
+  <circle cx="285" cy="195" r="8" fill="#3b82f6"/>
+  <rect x="305" y="190" width="200" height="10" rx="2" fill="#d1d5db"/>
+  <circle cx="285" cy="225" r="8" fill="#3b82f6"/>
+  <rect x="305" y="220" width="160" height="10" rx="2" fill="#d1d5db"/>
+  <circle cx="285" cy="255" r="8" fill="#3b82f6"/>
+  <rect x="305" y="250" width="180" height="10" rx="2" fill="#d1d5db"/>
+  <text x="400" y="550" font-family="Arial, sans-serif" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold">Task Management App</text>
+</svg>

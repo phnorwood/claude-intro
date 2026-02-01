@@ -1,0 +1,9 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#10b981"/>
+  <rect x="250" y="150" width="300" height="200" rx="10" fill="#ffffff" opacity="0.9"/>
+  <rect x="280" y="180" width="80" height="80" rx="5" fill="#10b981"/>
+  <rect x="380" y="190" width="140" height="15" rx="3" fill="#d1d5db"/>
+  <rect x="380" y="220" width="100" height="12" rx="3" fill="#d1d5db"/>
+  <rect x="280" y="280" width="240" height="40" rx="5" fill="#10b981"/>
+  <text x="400" y="550" font-family="Arial, sans-serif" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="bold">E-Commerce Project</text>
+</svg>

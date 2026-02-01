@@ -1,0 +1,28 @@
+{
+  "site": {
+    "name": "Your Name Portfolio",
+    "title": "Your Name - Full Stack Developer",
+    "description": "Professional portfolio showcasing web development projects, technical blog posts, and professional experience.",
+    "url": "https://yoursite.com",
+    "ogImage": "/images/og-image.jpg"
+  },
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com"
+  },
+  "navigation": [
+    { "name": "About", "href": "/about", "external": false },
+    { "name": "Projects", "href": "/projects", "external": false },
+    { "name": "Blog", "href": "/blog", "external": false },
+    { "name": "Contact", "href": "/contact", "external": false }
+  ],
+  "social": [
+    { "platform": "GitHub", "url": "https://github.com/yourusername", "icon": "github" },
+    { "platform": "LinkedIn", "url": "https://linkedin.com/in/yourusername", "icon": "linkedin" },
+    { "platform": "Twitter", "url": "https://twitter.com/yourusername", "icon": "twitter" }
+  ],
+  "analytics": {
+    "provider": "vercel",
+    "id": "your-analytics-id"
+  }
+}

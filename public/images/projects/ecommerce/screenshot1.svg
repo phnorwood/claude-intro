@@ -1,0 +1,7 @@
+<svg width="1200" height="800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" fill="#10b981"/>
+  <rect x="100" y="100" width="1000" height="600" rx="10" fill="#ffffff" opacity="0.95"/>
+  <rect x="100" y="100" width="1000" height="60" fill="#059669"/>
+  <text x="150" y="140" font-family="Arial, sans-serif" font-size="24" fill="#ffffff" font-weight="bold">E-Commerce Dashboard</text>
+  <text x="600" y="750" font-family="Arial, sans-serif" font-size="18" fill="#ffffff" text-anchor="middle">Screenshot 1</text>
+</svg>

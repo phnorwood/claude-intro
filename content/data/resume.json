@@ -1,0 +1,130 @@
+{
+  "personalInfo": {
+    "name": "Your Name",
+    "title": "Full Stack Software Engineer",
+    "email": "your.email@example.com",
+    "phone": "+1 (555) 123-4567",
+    "location": "San Francisco, CA",
+    "summary": "Experienced full-stack developer with 5+ years building scalable web applications. Passionate about creating elegant solutions to complex problems and mentoring junior developers. Specialized in React, TypeScript, Node.js, and cloud architecture.",
+    "avatar": "/images/profile/avatar.svg"
+  },
+  "social": {
+    "linkedin": "https://linkedin.com/in/yourname",
+    "github": "https://github.com/yourname",
+    "twitter": "https://twitter.com/yourname",
+    "website": "https://yoursite.com"
+  },
+  "experience": [
+    {
+      "id": "exp-1",
+      "company": "Tech Company Inc",
+      "position": "Senior Software Engineer",
+      "location": "San Francisco, CA",
+      "startDate": "2022-01",
+      "endDate": "present",
+      "description": "Lead development of customer-facing web applications serving 1M+ users",
+      "achievements": [
+        "Architected and implemented new feature that increased user engagement by 40%",
+        "Led team of 4 engineers in migrating legacy system to modern React/TypeScript stack",
+        "Reduced page load time by 60% through optimization efforts and code splitting",
+        "Mentored 3 junior developers and conducted regular code reviews"
+      ],
+      "technologies": ["React", "TypeScript", "Node.js", "PostgreSQL", "AWS", "Docker"],
+      "companyUrl": "https://techcompany.com"
+    },
+    {
+      "id": "exp-2",
+      "company": "Startup Ventures",
+      "position": "Full Stack Developer",
+      "location": "Remote",
+      "startDate": "2020-03",
+      "endDate": "2021-12",
+      "description": "Built and maintained multiple client projects from concept to deployment",
+      "achievements": [
+        "Developed 5 production applications using React, Vue, and Angular",
+        "Implemented CI/CD pipelines reducing deployment time by 75%",
+        "Created reusable component library used across 10+ projects",
+        "Collaborated with designers to implement pixel-perfect responsive interfaces"
+      ],
+      "technologies": ["React", "Vue.js", "Node.js", "MongoDB", "GraphQL", "Heroku"]
+    },
+    {
+      "id": "exp-3",
+      "company": "Digital Agency",
+      "position": "Frontend Developer",
+      "location": "New York, NY",
+      "startDate": "2019-06",
+      "endDate": "2020-02",
+      "description": "Developed responsive websites and web applications for diverse clients",
+      "achievements": [
+        "Built 15+ client websites with 100% on-time delivery",
+        "Improved site performance scores to 95+ on Google Lighthouse",
+        "Implemented accessibility standards achieving WCAG 2.1 AA compliance",
+        "Trained team members on modern JavaScript and React best practices"
+      ],
+      "technologies": ["JavaScript", "React", "HTML/CSS", "WordPress", "PHP"]
+    }
+  ],
+  "education": [
+    {
+      "id": "edu-1",
+      "institution": "University of California",
+      "degree": "Bachelor of Science in Computer Science",
+      "location": "Berkeley, CA",
+      "startDate": "2015-09",
+      "endDate": "2019-05",
+      "gpa": "3.8/4.0",
+      "honors": ["Dean's List (6 semesters)", "Summa Cum Laude"],
+      "relevant": [
+        "Data Structures & Algorithms",
+        "Web Development",
+        "Database Systems",
+        "Software Engineering",
+        "Computer Networks"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Frontend",
+      "skills": [
+        { "name": "React", "level": "expert", "years": 5 },
+        { "name": "TypeScript", "level": "advanced", "years": 4 },
+        { "name": "Next.js", "level": "advanced", "years": 3 },
+        { "name": "Vue.js", "level": "intermediate", "years": 2 },
+        { "name": "HTML/CSS", "level": "expert", "years": 7 },
+        { "name": "Tailwind CSS", "level": "advanced", "years": 3 }
+      ]
+    },
+    {
+      "category": "Backend",
+      "skills": [
+        { "name": "Node.js", "level": "advanced", "years": 5 },
+        { "name": "Express", "level": "advanced", "years": 4 },
+        { "name": "PostgreSQL", "level": "advanced", "years": 4 },
+        { "name": "MongoDB", "level": "intermediate", "years": 3 },
+        { "name": "GraphQL", "level": "intermediate", "years": 2 },
+        { "name": "REST APIs", "level": "expert", "years": 5 }
+      ]
+    },
+    {
+      "category": "Tools & DevOps",
+      "skills": [
+        { "name": "Git", "level": "expert", "years": 7 },
+        { "name": "Docker", "level": "advanced", "years": 3 },
+        { "name": "AWS", "level": "intermediate", "years": 2 },
+        { "name": "CI/CD", "level": "advanced", "years": 3 },
+        { "name": "Vercel/Netlify", "level": "advanced", "years": 3 }
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Developer - Associate",
+      "issuer": "Amazon Web Services",
+      "date": "2023-06",
+      "credentialId": "ABC123XYZ",
+      "url": "https://aws.amazon.com/certification/"
+    }
+  ]
+}

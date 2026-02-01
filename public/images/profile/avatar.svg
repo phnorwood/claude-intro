@@ -1,0 +1,6 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" fill="#4f46e5"/>
+  <circle cx="200" cy="160" r="60" fill="#ffffff" opacity="0.9"/>
+  <path d="M 120 280 Q 120 240 160 230 L 240 230 Q 280 240 280 280 L 280 320 Q 280 340 260 340 L 140 340 Q 120 340 120 320 Z" fill="#ffffff" opacity="0.9"/>
+  <text x="200" y="380" font-family="Arial, sans-serif" font-size="16" fill="#ffffff" text-anchor="middle">Profile Photo</text>
+</svg>
